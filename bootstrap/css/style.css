@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@1,300&display=swap');
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+#menulateral li a, #menulateral li {
+    text-transform: capitalize;
+    font-size:20px;
+    margin-top:2em;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.center{
+    text-align: center;
+    color:aliceblue
+}
+
+
